@@ -2,7 +2,7 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/greenmountain-xy)
 
-He is currently pursuing a Master's Degree in Computer Technology, at Ocean University of China. And visiting at The Hong Kong University of Science and Technology (Guangzhou).
+He is currently pursuing a Master's Degree in Computer Technology, at Ocean University of China, and visiting at The Hong Kong University of Science and Technology (Guangzhou).
 
 #### Email
 hyang644@connect.hkust-gz.edu.cn\
