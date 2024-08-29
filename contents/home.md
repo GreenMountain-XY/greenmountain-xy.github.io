@@ -1,16 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/greenmountain-xy)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Master's Degree in Computer Technology, at Ocean University of China. And visiting at The Hong Kong University of Science and Technology (Guangzhou).
 
 #### Email
-sli[at]cumt.edu.cn
+hyang644@connect.hkust-gz.edu.cn\
+yanghangyu3961@stu.ouc.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Visting Research Student, The Hong Kong University of Science and Technology (Guangzhou), 2024.9 - 2025.2 (expected).\
+M.E., Computer Technology, Ocean University of China, 2022—2025 (expected).\
+B.E., Data Science and Big Data Technology, Shandong Agricultural University, 2018—2022.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Machine Leaning, High Performance Computation.
 
