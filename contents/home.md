@@ -14,5 +14,5 @@ M.E., Computer Technology, Ocean University of China, 2022—2025 (expected).\
 B.E., Data Science and Big Data Technology, Shandong Agricultural University, 2018—2022.
 
 #### Research Interests
-Machine Leaning, High Performance Computation.
+Machine Learning, High Performance Computation.
 
